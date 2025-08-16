@@ -1,9 +1,7 @@
 # 🖥️ Web App Overview
 This is a simple **RAG Web App** where the user can have a *conversation with their document*.\
 In the example below, I used [Apple Inc.'s 2025 Q2 10-Q document.](https://d18rn0p25nwr6d.cloudfront.net/CIK-0000320193/b986f1de-d226-4e8e-9304-29a8458440ec.pdf)\
-<video autoplay muted loop>
-  <source src="video.mp4" type="video/mp4">
-</video>
+![video](video.mp4)
 
 # 🦙 The LLM
 My LLM of choice was **llama3-70b-8192** via [Groq](https://console.groq.com/docs/models).\
