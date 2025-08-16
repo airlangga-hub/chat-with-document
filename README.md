@@ -1,7 +1,8 @@
 # 🖥️ Web App Overview
 This is a simple **RAG Web App** where the user can have a *conversation with their document*.\
-In the example below, I used [Apple Inc.'s 2025 Q2 10-Q document.](https://d18rn0p25nwr6d.cloudfront.net/CIK-0000320193/b986f1de-d226-4e8e-9304-29a8458440ec.pdf)\
-![video](https://github.com/user-attachments/assets/af37debe-8b9a-4aef-bcce-c8cc38e9e0f6)
+In the example below, I used [Apple Inc.'s 2025 Q2 10-Q document.](https://d18rn0p25nwr6d.cloudfront.net/CIK-0000320193/b986f1de-d226-4e8e-9304-29a8458440ec.pdf)
+
+https://github.com/user-attachments/assets/af37debe-8b9a-4aef-bcce-c8cc38e9e0f6
 
 
 # 🦙 The LLM
